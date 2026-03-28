@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Salut+%F0%9F%91%8B+je+suis+Souhail;D%C3%A9veloppeur+Python;Web+%7C+IA+%7C+Cybers%C3%A9curit%C3%A9)](https://git.io/typing-svg)
 
 Développeur Python passionné par les applications web, l'intelligence artificielle et la cybersécurité.
-Actuellement à la recherche d'un **CDI** — disponible immédiatement partout en France.
 
 </div>
 
