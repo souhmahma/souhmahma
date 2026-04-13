@@ -44,9 +44,9 @@
 
 - 🔧 APIs REST robustes et sécurisées avec authentification et gestion des accès
 - 🛡️ Backends sécurisés avec bonnes pratiques de cybersécurité
-- 🤖 Modèles IA intégrés dans des applications web (LLM, Deep Learning)
-- ⚛️ Interfaces React modernes connectées à des backends Python
-- ☁️ Déploiement sur cloud (AWS, GCP) avec Docker
+- 🤖 Modèles IA intégrés dans des applications web (LLM, ML, DL)
+- ⚛️ Interfaces React modernes 
+- ☁️ Déploiement sur cloud
 
 ---
 
