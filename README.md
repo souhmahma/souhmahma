@@ -1,7 +1,5 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Salut+%F0%9F%91%8B+je+suis+Souhail;D%C3%A9veloppeur+FullStack;Web+%7C+IA+%7C+Cybers%C3%A9curit%C3%A9)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Salut+%F0%9F%91%8B+je+suis+Souhail;D%C3%A9veloppeur+FullStack;Web+%7C+IA+%7C+DevOps)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -33,10 +31,22 @@
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Tests & QA**
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 ---
 
@@ -45,8 +55,9 @@
 - 🔧 APIs REST robustes et sécurisées avec authentification et gestion des accès
 - 🛡️ Backends sécurisés avec bonnes pratiques de cybersécurité
 - 🤖 Modèles IA intégrés dans des applications web (LLM, ML, DL)
-- ⚛️ Interfaces React modernes 
-- ☁️ Déploiement sur cloud
+- ⚛️ Interfaces React modernes
+- ☁️ Déploiement sur cloud avec Docker & Kubernetes
+- 🧪 Pipelines CI/CD complets avec tests automatisés (unit, intégration, E2E)
 
 ---
 
