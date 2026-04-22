@@ -8,8 +8,7 @@
 
 ## 🛠 Stack
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
+<img alt="Coder GIF" height="250" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZqZzR0eHoxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYByP99u/giphy.gif" />
 
 **Backend**
 
