@@ -70,7 +70,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/souhmahma/count.svg)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=souhmahma&show_icons=true&theme=radical)
 
 ## 📬 Me contacter
