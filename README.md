@@ -70,10 +70,9 @@
 
 ---
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=souhmahma&show_icons=true&theme=radical)
-
-## 📬 Me contacter
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souhmahma&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souhmahma&theme=radical)
+## 
 
 <div align="center">
 
