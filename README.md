@@ -69,9 +69,6 @@
 - 🧪 Pipelines CI/CD complets avec tests automatisés (unit, intégration, E2E)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souhmahma&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=souhmahma&theme=radical)
 ## 
 
 <div align="center">
