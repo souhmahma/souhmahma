@@ -1,9 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Salut+%F0%9F%91%8B+je+suis+Souhail;D%C3%A9veloppeur+FullStack;Web+%7C+IA+%7C+Cybers%C3%A9curit%C3%A9)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Souhail;FullStack+Developer;Web+%7C+AI+%7C+Cybersecurity)](https://readme-typing-svg.demolab.com)
 
 </div>
-
 
 <div align="center">
   <img alt="Coder GIF" height="250" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -27,7 +26,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-**IA / ML**
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -45,7 +44,7 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-**Tests & QA**
+**Testing & QA**
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
@@ -54,7 +53,7 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
-**Sécurité Web**
+**Web Security**
 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -63,17 +62,16 @@
 
 ---
 
-## 🚀 Ce que je fais
+## 🚀 What I do
 
-- 🔧 APIs REST robustes et sécurisées avec authentification et gestion des accès
-- 🛡️ Backends sécurisés avec bonnes pratiques OWASP et gestion fine des permissions
-- 🤖 Modèles IA intégrés dans des applications web (LLM, ML, DL)
-- ⚛️ Interfaces React modernes
-- ☁️ Déploiement sur cloud avec Docker & Kubernetes
-- 🧪 Pipelines CI/CD complets avec tests automatisés (unit, intégration, E2E)
+- 🔧 **Robust & Secure REST APIs** with advanced authentication and access control.
+- 🛡️ **Secure Backends** following OWASP best practices and fine-grained permission management.
+- 🤖 **AI Models** integrated into web applications (LLM, ML, DL).
+- ⚛️ **Modern User Interfaces** built with React.
+- ☁️ **Cloud Deployment** using Docker & Kubernetes.
+- 🧪 **Full CI/CD Pipelines** with automated testing (unit, integration, E2E).
 
 ---
-## 
 
 <div align="center">
 
