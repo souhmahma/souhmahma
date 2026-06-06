@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;FullStack+Developer;Web+%7C+AI+%7C+Cybersecurity)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;FullStack+Engineer;Web+%7C+AI+%7C+Cybersecurity)](https://readme-typing-svg.demolab.com)
 
 </div>
 
